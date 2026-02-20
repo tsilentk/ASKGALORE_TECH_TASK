@@ -27,7 +27,7 @@ An advanced Retrieval-Augmented Generation (RAG) chatbot powered by **Gemini 2.0
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-repo/agrid-ai.git
+    git clone https://github.com/tsilentk/ASKGALORE_TECH_TASK.git
     cd agrid-ai
     ```
 
@@ -86,3 +86,4 @@ An advanced Retrieval-Augmented Generation (RAG) chatbot powered by **Gemini 2.0
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for new features or improvements!
+
